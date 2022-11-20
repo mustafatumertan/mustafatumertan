@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafatumertan
 - 👀 I’m interested in web development, deep learning, 3D visualization, finite element analysis, C++
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Three JS
 - 💞️ I’m looking to collaborate on any of the projects within my interests.
 - 📫 You can reach me at mustafatumertan@gmail.com
 
